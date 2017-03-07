@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 5px;
+    color: white;
+    font-family: fantasy;
+}
+
+html {
+    background: rgba(0, 0, 0, 0) url("http://www.pixelstalk.net/wp-content/uploads/2016/04/Landscape-night-sky-mountain-wallpapers-1920x1200.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bullets {
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    width: 33.33%;
+}
+
+.js-search-results {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.images {
+    border: 5px solid black;
+    border-radius: 5px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.js-search-form {
+    text-align: center;
+}
+
+.js-query {
+    color: black;
+}
